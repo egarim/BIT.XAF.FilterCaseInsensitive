@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>BIT.XAF.FilterCaseInsensitive.Module</id>
+    <!--*-->
+    <version>18.2.3</version>
+    <title>BIT.XAF.FilterCaseInsensitive.Module</title>
+    <!--*-->
+    <authors>BitFwks, Joche Ojeda</authors>
+    <owners>BitFwks, Joche Ojeda</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>This module will override the search functionality and it will make it case insesitive</description>
+    <!--*-->
+    <releaseNotes>First version</releaseNotes>
+    <copyright>Copyright © 2018</copyright>
+    <tags>
+    </tags>
+    <dependencies>
+      <!--
+      <dependency id="SampleDependency" version="1.0" />
+-->
+    </dependencies>
+  </metadata>
+</package>
