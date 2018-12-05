@@ -11,9 +11,11 @@
     <owners>BitFwks, Joche Ojeda</owners>
     <!--
     <licenseUrl></licenseUrl>
-    <projectUrl></projectUrl>
-    <iconUrl></iconUrl>
+  
+  
 -->
+    <iconUrl>https://www.bitframeworks.com/wp-content/uploads/2017/06/BitFrameWorksLogo.png</iconUrl>
+    <projectUrl>https://github.com/egarim/BIT.XAF.FilterCaseInsensitive</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <!--*-->
     <description>This module will override the search functionality and it will make it case insesitive</description>
