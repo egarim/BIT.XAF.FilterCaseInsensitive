@@ -9,18 +9,14 @@
     <!--*-->
     <authors>BitFwks, Joche Ojeda</authors>
     <owners>BitFwks, Joche Ojeda</owners>
-    <!--
-    <licenseUrl></licenseUrl>
-  
-  
--->
+    <licenseUrl>https://github.com/egarim/BIT.XAF.FilterCaseInsensitive/blob/master/License.txt</licenseUrl>
     <iconUrl>https://www.bitframeworks.com/wp-content/uploads/2017/06/BitFrameWorksLogo.png</iconUrl>
     <projectUrl>https://github.com/egarim/BIT.XAF.FilterCaseInsensitive</projectUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <!--*-->
-    <description>This module will override the search functionality and it will make it case insesitive</description>
+    <description>This module will override the search functionality and will make it case insensitive</description>
     <!--*-->
-    <releaseNotes>First version</releaseNotes>
+    <releaseNotes></releaseNotes>
     <copyright>Copyright © 2018</copyright>
     <tags>
     </tags>
