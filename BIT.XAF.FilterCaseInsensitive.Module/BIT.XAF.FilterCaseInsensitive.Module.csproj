@@ -104,7 +104,6 @@
     <None Include="package.nuspec">
       <SubType>Designer</SubType>
     </None>
-    <None Include="README.MD" />
   </ItemGroup>
   <ItemGroup>
     <None Include="FunctionalTests\config.xml" />
